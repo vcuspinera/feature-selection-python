@@ -10,6 +10,8 @@ Feature Selection for Machine Learning Models.
 
 If you've ever encountered a dataset with a myriad number of features, you know it could be very difficult to work with all of them. Some features may not even be important or relevant and could even cause optimization bias. One approach to this problem is to select a subset of these features for your model. Feature selection will reduce complexity, reduce the time when training an algorithm, and improve the accuracy of your model -- if we select them wisely. However, this is not a trivial task and to that end we have created the **feature-selection** package in `python`.
 
+You can access to the original UBC-MDS repository in [this link.](https://github.com/UBC-MDS/feature-selection-python)
+
 If you are interested in a similar feature selection package for `R`, click [here](https://github.com/UBC-MDS/feature-selection-r).
 
 ### Features
